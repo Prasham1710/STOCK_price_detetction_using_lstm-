@@ -1,1 +1,1 @@
-# STOCK_price_detetction_ai
+# STOCK_price_detetction
